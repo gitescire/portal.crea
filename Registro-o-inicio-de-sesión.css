@@ -1,0 +1,101 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 416px;
+}
+
+.u-section-1 .u-line-1 {
+  position: absolute;
+  top: 95px;
+  left: auto;
+  height: 295px;
+  transform-origin: center bottom;
+  right: 535px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 24px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 108px;
+  margin: 27px 570px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-image: none;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  margin: -17px auto 0 12px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 400;
+  margin: -221px 159px 0 763px;
+}
+
+.u-section-1 .u-btn-2 {
+  --radius: 6px;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: 0 126px 60px auto;
+  padding: 8px 103px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-form-1 {
+    margin-right: 370px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 278px;
+    margin-left: 663px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-form-1 {
+    margin-right: 150px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 213px;
+    margin-left: 502px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 160px;
+    margin-left: 322px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-3 {
+    margin-right: 101px;
+    margin-left: 122px;
+  }
+}@font-face {
+  font-family: 'SiemensSansRoman';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SiemensSansRoman.ttf);
+}
